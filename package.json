@@ -1,12 +1,14 @@
 {
   "name": "passport-mail",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Mail ru authentication strategy for Passport.",
   "keywords": [
     "passport",
     "mail",
     "mailru",
     "mail-ru",
+    "passport mailru",
+    "passport mail-ru",
     "auth",
     "authn",
     "authentication",
